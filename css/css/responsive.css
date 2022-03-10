@@ -1,0 +1,5 @@
+@media all and (max-width: 768px) {
+    body {
+      background-color: rgb(37, 24, 228);
+    }
+  }
